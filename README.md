@@ -1,7 +1,9 @@
-Hi! I'm Benoy T. John!
+<h1>Hi there!</h1>
+<br>I'm <b>Benoy T. John</b>!
 
-A recent dad,juggling home and work activities, trying to learn Rust whenever I can.
+I love working on <b>Rust, Unity, Python</b> and occasionally <b>Racket</b> 
 
+I play around with <b>Krita</b> and <b>Blender</b> at times
 Location: India
 
 Pronouns: He, Him. His
