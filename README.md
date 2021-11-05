@@ -6,4 +6,6 @@ Location: India
 
 Pronouns: He, Him. His
 
+<img src="inoffice.jpg"> </img>
+
 
