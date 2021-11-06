@@ -1,4 +1,4 @@
-<img src="higuy.jpg" align=left"></img><h1>Hi there!</h1> 
+<img src="higuy.jpg" align=left"> </img> <h1>Hi there!</h1> 
 <br>I'm <b>Benoy T. John</b>!<br>
 
 I love working on <span title="Seriously Rust is awesome!!" style="background-color: #FE5A1D"><b>Rust</b></span>, <span title="Learning + Playing" ><b>Unity</b>, <b>Python</b> and occasionally <b>Racket</b> 
