@@ -8,7 +8,9 @@ I play around with <b>Krita</b> and <b>Blender</b> at times
 
 Location: India
 
-Pronouns: He, Him. His
+Pronouns: He, Him. His <br>
+ 
+<img src="inofffice.jpg" align="right"> </img>
 
 
 
